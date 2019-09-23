@@ -44,6 +44,6 @@ function UseFormValidation(initialState, validate) {
     values,
     errors
   };
-} // end ./UseFormValidation
+} // ./UseFormValidation
 
 export default UseFormValidation;
